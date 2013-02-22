@@ -1,4 +1,4 @@
-#!/usr/local/bin/php -q
+#!/usr/bin/php -q
 <?php
 /* ***** BEGIN LICENSE BLOCK *****
  * Version: MPL 1.1

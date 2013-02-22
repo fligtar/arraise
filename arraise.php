@@ -27,6 +27,7 @@
 define('ERROR_INSUFFICIENT_DATA', 'Insufficient data');
 define('ERROR_DATASET_DNE', 'Dataset `%s` does not exist');
 define('ERROR_DATASET_DE', 'Dataset `%s` already exists');
+define('ERROR_DATASET_TOO_LARGE', 'Dataset `%s` exceeds the maximum size allowed (%s MB).');
 define('ERROR_TABLE_DNE', 'Table `%s` does not exist');
 define('ERROR_TABLE_DE', 'Table `%s` already exists');
 define('ERROR_DUPLICATE_KEY', 'Duplicate primary key `%s` in table `%s`');
@@ -64,6 +65,7 @@ class arraise {
     //Customization
     var $errorHTML = '';
     var $configFile = 'config.php';
+    var $maxDatasetSize = 500; // in megabytes
     
    /**
     * Constructor that initializes the dataset
@@ -260,6 +262,11 @@ class arraise {
     function select($table, $fields = '*', $criteria = array(), $order = '', $limit = -1) {
         $this->_logCall();
         
+        //Make sure fields is an array
+        if (!is_array($fields)) {
+            $fields = $this->_fieldsToArray($fields);
+        }
+        
         if (!empty($this->dataset[$table])) {
             foreach ($this->dataset[$table] as $key => $data) {
                 foreach ($data as $field => $value) {
@@ -358,6 +365,7 @@ class arraise {
                     $results[$i] = $this->dataset[$table][$match];
                 }
                 else {
+                    
                     foreach ($fields as $field) {
                         $results[$i][$field] = $this->dataset[$table][$match][$field];
                     }
@@ -372,7 +380,7 @@ class arraise {
                     $order = array($order);
                 }
                 
-                //Use regex to split field and irection, then add to an orderBy array
+                //Use regex to split field and direction, then add to an orderBy array
                 foreach ($order as $orderString) {
                     if (preg_match('/^\s*(\S+)\s*(ASC|DESC)?(ENDING)?\s*$/i', $orderString, $orderInfo)) {
                         $column = array();
@@ -956,9 +964,17 @@ class arraise {
     * @return boolean
     */
     function load($name) {
+        $this->_logCall();
         $file = $this->_getFilename($name);
         
         if (file_exists($file)) {
+            // Check dataset size
+            $size = filesize($file) / 1048576; //bytes to MB
+            if ($size > $this->maxDatasetSize) {
+                $this->_logError(sprintf(ERROR_DATASET_TOO_LARGE, $name, $this->maxDatasetSize), true);
+                return false;
+            }
+            
             $data = file_get_contents($file);
             
             $this->dataset = unserialize($data);
@@ -1108,8 +1124,9 @@ class arraise {
    /**
     * Log errors and possibly output them
     * @param string $error The error string to log/output
+    * @param bool $fatal Whether the error is fatal or not
     */
-    function _logError($error) {
+    function _logError($error, $fatal = false) {
         $this->lastError = $error;
         $this->lastAffectedRows = 0;
         
@@ -1152,6 +1169,10 @@ class arraise {
                     echo '</div>';
                 echo '</div>';
             }
+        }
+        
+        if ($fatal === true) {
+            exit;
         }
     }
     

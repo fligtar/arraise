@@ -23,5 +23,6 @@ global $globalConfig;
 # $globalConfig['logging'] = false;
 # $globalConfig['outputErrors'] = true;
 # $globalConfig['errorHTML'] = '';
+# $globalConfig['maxDatasetSize'] = 200; // in megabytes
 
 ?>
