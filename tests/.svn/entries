@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="20"
+   name=""
+   committed-date="2007-03-21T05:56:53.726052Z"
+   url="http://arraise.svn.fligtar.com/trunk/tests"
+   last-author="fligtar"
+   kind="dir"
+   uuid="05de3a0d-022b-0410-a7fd-fc69dfbce730"
+   repos="http://arraise.svn.fligtar.com"
+   revision="34"/>
+<entry
+   committed-rev="20"
+   name="sql.test.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-21T05:56:53.726052Z"
+   checksum="15b405cfc9627cf98bad765f389e0653"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:22:54.000000Z"/>
+<entry
+   committed-rev="20"
+   name="basic.test.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-21T05:56:53.726052Z"
+   checksum="736dde25df13cbd9ab137201972043d7"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:22:54.000000Z"/>
+<entry
+   committed-rev="1"
+   name="reporter.php"
+   text-time="2007-05-11T13:23:13.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="95d140644280cbd490accf5c4d551c9e"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:22:54.000000Z"/>
+<entry
+   name="simpletest"
+   kind="dir"/>
+</wc-entries>

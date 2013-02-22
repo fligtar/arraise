@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-03-07T15:22:45.415578Z"
+   url="http://arraise.svn.fligtar.com/trunk/tests/simpletest/test/support"
+   last-author="fligtar"
+   kind="dir"
+   uuid="05de3a0d-022b-0410-a7fd-fc69dfbce730"
+   repos="http://arraise.svn.fligtar.com"
+   revision="34"/>
+<entry
+   committed-rev="1"
+   name="spl_examples.php"
+   text-time="2007-05-11T13:23:10.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="4d482cb75087bea539d96c3559b04939"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:10.000000Z"/>
+<entry
+   committed-rev="1"
+   name="upload_sample.txt"
+   text-time="2007-05-11T13:23:10.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="0ce6cebb8d7754c9d4484ce78611d24d"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:10.000000Z"/>
+<entry
+   name="collector"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="latin1_sample"
+   text-time="2007-05-11T13:23:10.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="e0e4859fcd6072bedb7aa1b6377d7ff1"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:10.000000Z"/>
+<entry
+   committed-rev="1"
+   name="supplementary_upload_sample.txt"
+   text-time="2007-05-11T13:23:10.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="dd7472fdc569c968f2b14e0ad0f13a9b"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:10.000000Z"/>
+</wc-entries>

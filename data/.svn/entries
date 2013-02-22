@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19"
+   name=""
+   committed-date="2007-03-21T04:16:11.895940Z"
+   url="http://arraise.svn.fligtar.com/trunk/data"
+   last-author="fligtar"
+   kind="dir"
+   uuid="05de3a0d-022b-0410-a7fd-fc69dfbce730"
+   repos="http://arraise.svn.fligtar.com"
+   revision="34"/>
+<entry
+   committed-rev="19"
+   name=".htaccess"
+   text-time="2007-05-11T13:23:13.000000Z"
+   committed-date="2007-03-21T04:16:11.895940Z"
+   checksum="5187887dc1356110ff4adba2a7bd042a"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:13.000000Z"/>
+</wc-entries>

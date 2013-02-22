@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="26"
+   name=""
+   committed-date="2007-04-04T09:40:43.960686Z"
+   url="http://arraise.svn.fligtar.com/etc/htdocs/files"
+   last-author="fligtar"
+   kind="dir"
+   uuid="05de3a0d-022b-0410-a7fd-fc69dfbce730"
+   repos="http://arraise.svn.fligtar.com"
+   revision="34"/>
+<entry
+   committed-rev="14"
+   name="arraise-0.1.zip"
+   text-time="2007-05-11T13:23:42.000000Z"
+   committed-date="2007-03-09T04:19:15.741152Z"
+   checksum="729787ca6e52839b2d4796addf160ab5"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:26.000000Z"/>
+<entry
+   committed-rev="26"
+   name="arraise-0.2.zip"
+   text-time="2007-05-11T13:23:42.000000Z"
+   committed-date="2007-04-04T09:40:43.960686Z"
+   checksum="bf3dec6a634aa89f5116dc61e8a7eec2"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:26.000000Z"/>
+<entry
+   committed-rev="26"
+   name="arraise-0.3.zip"
+   text-time="2007-05-11T13:23:42.000000Z"
+   committed-date="2007-04-04T09:40:43.960686Z"
+   checksum="3f9aea46fcffee6779707dbbde9c78d3"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:26.000000Z"/>
+<entry
+   committed-rev="14"
+   name="arraise-0.1.tar.gz"
+   text-time="2007-05-11T13:23:42.000000Z"
+   committed-date="2007-03-09T04:19:15.741152Z"
+   checksum="a4273fb9b0630bd01d4d2a5d99c5d082"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:41.000000Z"/>
+<entry
+   committed-rev="26"
+   name="arraise-0.2.tar.gz"
+   text-time="2007-05-11T13:23:42.000000Z"
+   committed-date="2007-04-04T09:40:43.960686Z"
+   checksum="1252f279bfc79dc3acbadb5717cd689e"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:41.000000Z"/>
+<entry
+   committed-rev="26"
+   name="arraise-0.3.tar.gz"
+   text-time="2007-05-11T13:23:42.000000Z"
+   committed-date="2007-04-04T09:40:43.960686Z"
+   checksum="d53bfc684c0c79b1eab2d6e87e291949"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:42.000000Z"/>
+</wc-entries>

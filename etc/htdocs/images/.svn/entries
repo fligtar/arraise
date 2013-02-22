@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="13"
+   name=""
+   committed-date="2007-03-09T03:13:23.662978Z"
+   url="http://arraise.svn.fligtar.com/etc/htdocs/images"
+   last-author="fligtar"
+   kind="dir"
+   uuid="05de3a0d-022b-0410-a7fd-fc69dfbce730"
+   repos="http://arraise.svn.fligtar.com"
+   revision="34"/>
+<entry
+   committed-rev="13"
+   name="arraise-small.png"
+   text-time="2007-05-11T13:23:42.000000Z"
+   committed-date="2007-03-09T03:13:23.662978Z"
+   checksum="fb9514956d496b1f0038e015d9f27740"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:42.000000Z"/>
+<entry
+   committed-rev="13"
+   name="arraise-full.png"
+   text-time="2007-05-11T13:23:42.000000Z"
+   committed-date="2007-03-09T03:13:23.662978Z"
+   checksum="d37001f95f1da7a899a6ce92f8b711c3"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:42.000000Z"/>
+<entry
+   committed-rev="13"
+   name="icon.png"
+   text-time="2007-05-11T13:23:42.000000Z"
+   committed-date="2007-03-09T03:13:23.662978Z"
+   checksum="49a0950ea8d3965f739e43495d3ffa7c"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:42.000000Z"/>
+<entry
+   committed-rev="13"
+   name="arraise-med.png"
+   text-time="2007-05-11T13:23:42.000000Z"
+   committed-date="2007-03-09T03:13:23.662978Z"
+   checksum="99c4a23bbf81f15d5572359715a55e9d"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:42.000000Z"/>
+</wc-entries>

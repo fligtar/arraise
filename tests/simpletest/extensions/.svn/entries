@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2007-03-07T15:22:45.415578Z"
+   url="http://arraise.svn.fligtar.com/trunk/tests/simpletest/extensions"
+   last-author="fligtar"
+   kind="dir"
+   uuid="05de3a0d-022b-0410-a7fd-fc69dfbce730"
+   repos="http://arraise.svn.fligtar.com"
+   revision="34"/>
+<entry
+   committed-rev="1"
+   name="pear_test_case.php"
+   text-time="2007-05-11T13:22:55.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="89225ea9b1c48835d074204d7495e9c7"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:22:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="phpunit_test_case.php"
+   text-time="2007-05-11T13:22:55.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="d20bba62dcb4b8c7b3dd98a94d938f46"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:22:55.000000Z"/>
+</wc-entries>

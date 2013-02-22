@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="2"
+   name=""
+   committed-date="2007-03-07T15:46:59.282046Z"
+   url="http://arraise.svn.fligtar.com/trunk/tests/simpletest"
+   last-author="fligtar"
+   kind="dir"
+   uuid="05de3a0d-022b-0410-a7fd-fc69dfbce730"
+   repos="http://arraise.svn.fligtar.com"
+   revision="34"/>
+<entry
+   committed-rev="1"
+   name="cookies.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="50ed67d2f74a8ce3868c168cb76b0224"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:22:54.000000Z"/>
+<entry
+   committed-rev="1"
+   name="dumper.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="d327ab94331941781adff4c888ff7f03"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:22:54.000000Z"/>
+<entry
+   committed-rev="1"
+   name="shell_tester.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="47c13ba868c0fb238cbcd31e69814fc0"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:22:54.000000Z"/>
+<entry
+   committed-rev="1"
+   name="VERSION"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="799db96fb0cef8ed9a04334e8765c7f4"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:22:54.000000Z"/>
+<entry
+   committed-rev="1"
+   name="reporter.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="26884581cf161049a46f7b47d6ac4ccd"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:22:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="url.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="b0ad536b4963cb10ebb249c3cf4549d0"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:22:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="web_tester.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="95f28cc5bd3bab87eea98ce51959a593"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:22:55.000000Z"/>
+<entry
+   name="extensions"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="compatibility.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="b53329c3745a637352ca4cb94e7ff912"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:22:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="test_case.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="0f84c121469ed77db10f0190cd723297"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:22:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="tag.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="b9153e8fdaf7c10c7fdd30609a02a9e9"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:22:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="authentication.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="a21b73f8f7863d04df46b54b72483c0a"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:22:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="exceptions.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="fe13e9e777316d856e5ae2a56dbc9a95"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:22:55.000000Z"/>
+<entry
+   committed-rev="1"
+   name="expectation.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="d892a49db7ebfe7c89f5919fd79068e3"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:22:56.000000Z"/>
+<entry
+   committed-rev="1"
+   name="reflection_php4.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="0ea3ef79697357951b91fbf7f3585dc6"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:22:56.000000Z"/>
+<entry
+   committed-rev="1"
+   name="collector.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="596cf8c6d67f3c1dfbd0924b77d23ca8"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:22:56.000000Z"/>
+<entry
+   committed-rev="1"
+   name="reflection_php5.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="90ee8a7a47194e6716a05ec4a11a2cca"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:22:56.000000Z"/>
+<entry
+   committed-rev="1"
+   name="socket.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="e3d177f62a8231cb433fdb5b980e2f52"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:22:56.000000Z"/>
+<entry
+   committed-rev="1"
+   name="simpletest.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="1431f1ebf523b13711ab8f1dd08ca9fe"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:22:56.000000Z"/>
+<entry
+   name="test"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="remote.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="b972e9f6de4fc53b486c024d2a4ddbc5"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:10.000000Z"/>
+<entry
+   committed-rev="1"
+   name="user_agent.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="af14824c83ca3cf68d13dbd872ff433c"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="LICENSE"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="5804fe91d3294da4ac47c02b454bbc8a"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="parser.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="21c4daaeaf14faa7944f122f2d74cdee"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:10.000000Z"/>
+<entry
+   committed-rev="1"
+   name="scorer.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="6dc5077655251c99f7b64280d6cd9192"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="xml.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="b87634bd3080c8eba620f125d5fc7bf1"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="detached.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="93ed4127585402ee1f138566776b7384"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="mock_objects.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="ffb466fd532ce6438bb21449c5f8fefa"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="form.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="a6cee2dd0f938384b795e920af9e43d3"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="unit_tester.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="fd11eef86fe3a7c648e1fd4716edea97"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="README"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="d01fbe25114ea90440e1be06d1a8dad2"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="HELP_MY_TESTS_DONT_WORK_ANYMORE"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="6d2abad564ccd4fa10268f4e137093d1"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:11.000000Z"/>
+<entry
+   committed-rev="1"
+   name="page.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="12a8be05d7c6de2525c98c696510a116"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="errors.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="bdb904976243657ac23c4f5bd3dae910"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="invoker.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="8f68e9650fbb29f0031451e43f674d7c"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="frames.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="1c02d382b469460f40682706ce96b406"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="http.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="8d37511947fa9a5692dd80d504f922a6"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="selector.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="b414dceb713b7d05f513db6c5632fc44"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="browser.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="12a8bd47e1c895238c6401c50f387e40"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:12.000000Z"/>
+<entry
+   committed-rev="1"
+   name="encoding.php"
+   text-time="2007-05-11T13:23:12.000000Z"
+   committed-date="2007-03-07T15:22:45.415578Z"
+   checksum="fabb040ba9b0f685c38ee30b825f71dd"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:12.000000Z"/>
+</wc-entries>

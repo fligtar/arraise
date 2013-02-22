@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="28"
+   name=""
+   committed-date="2007-04-05T09:11:26.992592Z"
+   url="http://arraise.svn.fligtar.com/etc"
+   last-author="fligtar"
+   kind="dir"
+   uuid="05de3a0d-022b-0410-a7fd-fc69dfbce730"
+   repos="http://arraise.svn.fligtar.com"
+   revision="34"/>
+<entry
+   name="htdocs"
+   kind="dir"/>
+<entry
+   committed-rev="13"
+   name="arraise.psd"
+   text-time="2007-05-11T13:23:43.000000Z"
+   committed-date="2007-03-09T03:13:23.662978Z"
+   checksum="2bd686459ff30ecc287aecd885e0bc8a"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:43.000000Z"/>
+<entry
+   committed-rev="13"
+   name="icon.psd"
+   text-time="2007-05-11T13:23:43.000000Z"
+   committed-date="2007-03-09T03:13:23.662978Z"
+   checksum="cdde191376ecb58ca79301138f0dfa99"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:43.000000Z"/>
+</wc-entries>

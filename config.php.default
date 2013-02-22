@@ -1,0 +1,27 @@
+<?php
+/**
+ * Global Configuration File
+ *
+ * Uncomment variables in this file to be automatically set in arraise.
+ * Settings are obtained in the following order:
+ *     1. Set during script (i.e. SET logging = true;)
+ *     2. Passed in constructor
+ *     3. Set in this config file
+ *     4. Default values
+ *
+ * For full documentation, see 
+ * http://arraise.fligtar.com/wiki/Documentation/Guide#GlobalConfigurationFile
+ */
+
+global $globalConfig;
+
+# $globalConfig['name'] = 'data';
+# $globalConfig['autoLoad'] = true;
+# $globalConfig['autoSave'] = true;
+# $globalConfig['savePath'] = 'data';
+# $globalConfig['autoCreate'] = false;
+# $globalConfig['logging'] = false;
+# $globalConfig['outputErrors'] = true;
+# $globalConfig['errorHTML'] = '';
+
+?>

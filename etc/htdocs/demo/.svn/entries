@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="28"
+   name=""
+   committed-date="2007-04-05T09:11:26.992592Z"
+   url="http://arraise.svn.fligtar.com/etc/htdocs/demo"
+   last-author="fligtar"
+   kind="dir"
+   uuid="05de3a0d-022b-0410-a7fd-fc69dfbce730"
+   repos="http://arraise.svn.fligtar.com"
+   revision="34"/>
+<entry
+   committed-rev="28"
+   name="editpost.php"
+   text-time="2007-05-11T13:23:42.000000Z"
+   committed-date="2007-04-05T09:11:26.992592Z"
+   checksum="8c96908f794b9e626991ab633183540b"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:42.000000Z"/>
+<entry
+   committed-rev="28"
+   name="post.php"
+   text-time="2007-05-11T13:23:42.000000Z"
+   committed-date="2007-04-05T09:11:26.992592Z"
+   checksum="2de68f6f166c52ebbc5bd12ce0284a7b"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:42.000000Z"/>
+<entry
+   committed-rev="28"
+   name="index.php"
+   text-time="2007-05-11T13:23:42.000000Z"
+   committed-date="2007-04-05T09:11:26.992592Z"
+   checksum="da6394d9df19a180f9538ddc3456b549"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:42.000000Z"/>
+</wc-entries>

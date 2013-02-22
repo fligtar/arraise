@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="28"
+   name=""
+   committed-date="2007-04-05T09:11:26.992592Z"
+   url="http://arraise.svn.fligtar.com/etc/htdocs"
+   last-author="fligtar"
+   kind="dir"
+   uuid="05de3a0d-022b-0410-a7fd-fc69dfbce730"
+   repos="http://arraise.svn.fligtar.com"
+   revision="34"/>
+<entry
+   name="files"
+   kind="dir"/>
+<entry
+   name="demo"
+   kind="dir"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="26"
+   name="release.sh"
+   text-time="2007-05-11T13:23:42.000000Z"
+   committed-date="2007-04-04T09:40:43.960686Z"
+   checksum="0abfec8635e950b753e47be8d098426f"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:42.000000Z"/>
+<entry
+   committed-rev="17"
+   name="download.php"
+   text-time="2007-05-11T13:23:42.000000Z"
+   committed-date="2007-03-09T05:21:02.281231Z"
+   checksum="336c62f400984d2946a76a42e44f6cd5"
+   last-author="fligtar"
+   kind="file"
+   prop-time="2007-05-11T13:23:42.000000Z"/>
+</wc-entries>
