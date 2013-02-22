@@ -18,7 +18,7 @@ global $globalConfig;
 # $globalConfig['name'] = 'data';
 # $globalConfig['autoLoad'] = true;
 # $globalConfig['autoSave'] = true;
-# $globalConfig['savePath'] = 'data';
+# $globalConfig['savePath'] = dirname(__FILE__).'/data';
 # $globalConfig['autoCreate'] = false;
 # $globalConfig['logging'] = false;
 # $globalConfig['outputErrors'] = true;

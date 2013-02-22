@@ -1,14 +1,5 @@
-///////////////////////////////////////////////////////////////////////
-//   aaaaaaa   rr   rrr rr   rrr  aaaaaaa    ii  ssssssss  eeeeeee   //
-//         aa  rr rr  r rr rr  r        aa      ss        ee     ee  //
-//         aa  rrr      rrr             aa  iii   ss      ee     ee  //
-//   aaaaaaaa  rr       rr        aaaaaaaa   ii    ss     eeeeeeeee  //
-//  aa     aa  rr       rr       aa     aa   ii      ss   ee         //
-//  aa     aa  rr       rr       aa     aa   ii        ss ee         //
-//   aaaaaaaaa rr       rr        aaaaaaaaa  ii ssssssss   eeeeeeee  //
-///////////////////////////////////////////////////////////////////////
+I wrote arraise in 2007 as a lightweight alternative to setting up a full database using MySQL. Arraise offers similar methods for inserting, modifying, and removing data from tables and databases (including a query language and API) but stores them as serialized PHP arrays to disk. It's not intended for large datasets and performance is probably terrible, but it may be useful if you're just looking to quickly store and retrieve data across sessions.
 
-arraise is a PHP array query system.
+It's not currently maintained and may not even fully work anymore; I just wanted to preserve it in case it's useful down the road.
 
-Please see http://arraise.fligtar.com for documentation, downloads,
-support, and more.
+Unfortunately I cannot currently find any of the documentation on query language syntax or API methods.

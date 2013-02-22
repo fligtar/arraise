@@ -30,8 +30,9 @@ if (isset($_GET['help']) || isset($_GET['-help']) || isset($_GET['--help']) || i
     exit;
 }
 
-require_once('arraise.php');
-require_once('arraise_cli.php');
+$arraise_loc = dirname(__FILE__);
+require_once($arraise_loc.'/arraise.php');
+require_once($arraise_loc.'/arraise_cli.php');
 $cli = new arraise_cli($_GET);
 
 echo "Welcome to the arraise command line interface.\n";

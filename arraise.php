@@ -52,7 +52,7 @@ class arraise {
     //Persistent data
     var $autoLoad = true;
     var $autoSave = true;
-    var $savePath = 'data';
+    var $savePath = '';
     
     var $autoCreate = false;
     
@@ -72,6 +72,9 @@ class arraise {
     * @param array $dataset inital dataset
     */
     function arraise($name = '', $config = array(), $dataset = array()) {
+        $arraise_loc = dirname(__FILE__);
+        $this->savePath = $arraise_loc.'/data';
+        
         //Set name
         if (!empty($name)) {
             $this->name = $name;
@@ -97,8 +100,8 @@ class arraise {
         }
         
         //Include display class if found
-        if (file_exists('arraise_display.php')) {
-            include_once('arraise_display.php');
+        if (file_exists($arraise_loc.'/arraise_display.php')) {
+            include_once($arraise_loc.'/arraise_display.php');
             $this->display = new arraise_display($this);
         }
     }
